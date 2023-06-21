@@ -1,0 +1,852 @@
+CONNECT TO RBD
+
+   Информация соединения с базой данных
+
+ Сервер баз данных           = DB2/NT64 9.1.C
+ ID авторизации SQL          = DB2ADMIN
+ Алиас локальной базы данных = RBD
+
+
+REORG TABLE CBD.AFL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.AIL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.ANL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.BCL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.CFG_LOCAL_CBD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.CFG_LOCAL_CBD_SYNONYMS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.CFG_SETTINGS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.DCL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.DDL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.DML USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.DSL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.FEL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.FIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.FIO_1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.FRL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_1R USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_27 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_D08 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_D09 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_D10 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_I6 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_DU_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_BB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_D6 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_DG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_DJ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_DZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_EEE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_I06 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_III USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_PP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_SA USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_SK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ID_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_II USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_II_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_IOLIST USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_IOLOGIC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_BB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_BR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_E1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_JJ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_KEYS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_KEYS1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_KEYS2 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_L7 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LI USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LJ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_LS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_PP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_TT USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_XX USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_ZP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_F1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_I6 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_M15 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_M8 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_OB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_PD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_SK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_BB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_GC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_GD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_GE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_GK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_GM USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_KEYS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_KEYS1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_KEYS2 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_PP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_XX USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_ZZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG_04 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG_05 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG_I6 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG_S13 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_SG_S19 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_2I USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_2R USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_I6 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_U7 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_U8 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_U9 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_UG_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ZP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ZP_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ZP_ZE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ZP_ZS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_DZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_PD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_PO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_PP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_PR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_PD_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IML USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.INATIONS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IO_CATEGORYES USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.LC_KEYS_ORDER USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MAM USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_1Q USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_1R USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_D08 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_D09 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_D10 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_D18 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_D20 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_D22 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_IIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_LC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_DZ_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IIZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IIZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_DZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_IIZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_IZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_LZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_MZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_RZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_SZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IO_UZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IOLIST USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IOLOGIC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_BB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_D6 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_DG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_DJ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_DZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_EEE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_IIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_SA USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_SC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_SF USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_SK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_IZ_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_BB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_BR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_E1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_JJ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_L7 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LI USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LJ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_LS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_TA USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_TT USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_WW USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_LZ_ZP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MESSAGES USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MSG_LOCK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_F1 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_IIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_LR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_M8 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_OB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_PD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_SK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_MZ_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_BB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_GC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_GD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_GE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_GK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_GM USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_WW USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_RZ_ZZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SK USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SK_900 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SK_905 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SK_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_04 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_05 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_3J USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_DU USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_IIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_S13 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_SZ_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_2I USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_2O USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_2R USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_IIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_LC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_U18 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_U8 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_U9 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_UZ_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_DU USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_DZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_MD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_MR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_OD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_OOZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_PD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_PO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_PR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_PZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_RG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_SG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MIS_PZ_UG USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MK_KORR USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MKP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MKT USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MLD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MLE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.MLM USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.PARAMS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.QLE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.QLQ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.RCL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.RCS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.RFE USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.RG_KEYS_ORDER USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.RIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.RTC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.SEM USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.SIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.SLB USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.SSI USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.STPLIST USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.SYNLIST USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.TDL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.TIO USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.TRL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.TTL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.WC USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.WL USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.WS USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_CPU USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_AD_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_EEP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_RG_EET USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_EEP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_EET USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_U9 USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ZV_XZ USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_ZV_JN USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_2C USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_SD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_MR_RD USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_ZPA USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+REORG TABLE CBD.IF_LC_ZPP USE TEMPSPACE
+DB20000I  Команда REORG выполнена успешно.
+
+CONNECT RESET
+DB20000I  Команда SQL выполнена успешно.
+

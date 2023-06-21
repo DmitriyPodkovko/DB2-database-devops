@@ -1,0 +1,1 @@
+db2cmd -c -w -i db2 -tvf restore.db2 > restore.log

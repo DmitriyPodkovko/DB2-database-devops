@@ -1,0 +1,8 @@
+attach to db2;
+
+RESTORE DATABASE RBD FROM D:\backups\ TAKEN AT 20220213230033
+  TO D: INTO RBD
+  LOGTARGET "E:\LOGDIR_TARGET" 
+  WITH 2 BUFFERS  BUFFER 1024 REDIRECT generate script RBD_redirect_script_27022022.db2 ; 
+
+detach ;

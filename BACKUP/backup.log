@@ -1,0 +1,36 @@
+CONNECT TO RBD
+
+   Информация соединения с базой данных
+
+ Сервер баз данных           = DB2/NT64 9.1.C
+ ID авторизации SQL          = DB2ADMIN
+ Алиас локальной базы данных = RBD
+
+
+QUIESCE DATABASE IMMEDIATE FORCE CONNECTIONS
+DB20000I  Команда QUIESCE DATABASE выполнена успешно.
+
+CONNECT RESET
+DB20000I  Команда SQL выполнена успешно.
+
+BACKUP DATABASE RBD TO "D:\BACKUP\BACKUP" WITH 2 BUFFERS BUFFER 1024 PARALLELISM 1 COMPRESS  WITHOUT PROMPTING
+
+Резервное копирование завершилось успешно. Отметка времени копии : 
+20220428095618
+
+
+CONNECT TO RBD
+
+   Информация соединения с базой данных
+
+ Сервер баз данных           = DB2/NT64 9.1.C
+ ID авторизации SQL          = DB2ADMIN
+ Алиас локальной базы данных = RBD
+
+
+UNQUIESCE DATABASE
+DB20000I  Команда UNQUIESCE DATABASE выполнена успешно.
+
+CONNECT RESET
+DB20000I  Команда SQL выполнена успешно.
+

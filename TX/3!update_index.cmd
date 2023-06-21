@@ -1,0 +1,14 @@
+db2text UPDATE INDEX "CBD"."xgm_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xgm_h   
+db2text UPDATE INDEX "CBD"."xpr_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xpr_h   
+db2text UPDATE INDEX "CBD"."xjb_lc_h"  FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xjb_lc_h   
+db2text UPDATE INDEX "CBD"."xdg_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xdg_h   
+db2text UPDATE INDEX "CBD"."xob_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xob_h  
+db2text UPDATE INDEX "CBD"."dc1_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_dc1_h   
+db2text UPDATE INDEX "CBD"."dc2_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_dc2_h   
+db2text UPDATE INDEX "CBD"."xls_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xls_h   
+db2text UPDATE INDEX "CBD"."xbc_lc_h"  FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xbc_lc_h
+db2text UPDATE INDEX "CBD"."x1r_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_x1r_h  
+db2text UPDATE INDEX "CBD"."xbbb_id_h" FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xbbb_id_h
+db2text UPDATE INDEX "CBD"."x2r_h"     FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_x2r_h   
+db2text UPDATE INDEX "CBD"."xxzo_h"    FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xxzo_h  
+db2text UPDATE INDEX "CBD"."xbc_rg_h"  FOR TEXT REORGANIZE COMMITCOUNT 10 CONNECT TO rbd      > upd_xbc_rg_h

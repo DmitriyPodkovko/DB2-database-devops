@@ -1,0 +1,18 @@
+attach to db2
+
+   Информация о подключении экземпляра
+
+ Сервер экземпляра                             = DB2/NT64 9.1.C
+ ID авторизации                                      = DB2ADMIN
+ Алиас локального экземпляра                   = DB2
+
+
+drop database RBD
+DB20000I  Команда DROP DATABASE выполнена успешно.
+
+RESTORE DATABASE RBD FROM "D:\BACKUP\FOND+STRUKTURA+SLOVNUKU" TAKEN AT 20220423193922 TO "D:" INTO RBD WITH 2 BUFFERS BUFFER 1024 PARALLELISM 1 WITHOUT PROMPTING
+DB20000I  Команда RESTORE DATABASE выполнена успешно.
+
+detach
+DB20000I  Команда DETACH выполнена успешно.
+

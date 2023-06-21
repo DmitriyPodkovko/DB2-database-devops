@@ -1,0 +1,14 @@
+db2text DROP INDEX "CBD"."xbbb_id_h"  FOR TEXT CONNECT TO lcbd   > _dr_xbbb_id_h
+db2text DROP INDEX "CBD"."xgm_h"      FOR TEXT CONNECT TO lcbd   > _dr_xgm_h   
+db2text DROP INDEX "CBD"."xpr_h"      FOR TEXT CONNECT TO lcbd   > _dr_xpr_h   
+db2text DROP INDEX "CBD"."xls_h"      FOR TEXT CONNECT TO lcbd   > _dr_xls_h   
+db2text DROP INDEX "CBD"."xbc_lc_h"   FOR TEXT CONNECT TO lcbd   > _dr_xbc_lc_h
+db2text DROP INDEX "CBD"."xdg_h"      FOR TEXT CONNECT TO lcbd   > _dr_xdg_h   
+db2text DROP INDEX "CBD"."dc1_h"      FOR TEXT CONNECT TO lcbd   > _dr_dc1_h   
+db2text DROP INDEX "CBD"."dc2_h"      FOR TEXT CONNECT TO lcbd   > _dr_dc2_h   
+db2text DROP INDEX "CBD"."xxzo_h"     FOR TEXT CONNECT TO lcbd   > _dr_xxzo_h  
+db2text DROP INDEX "CBD"."xbc_rg_h"   FOR TEXT CONNECT TO lcbd   > _dr_xbc_rg_h
+db2text DROP INDEX "CBD"."xjb_lc_h"   FOR TEXT CONNECT TO lcbd   > _dr_xjb_lc_h
+db2text DROP INDEX "CBD"."xob_h"      FOR TEXT CONNECT TO lcbd   > _dr_xob_h
+db2text DROP INDEX "CBD"."x1r_h"      FOR TEXT CONNECT TO lcbd   > _dr_x1r_h
+db2text DROP INDEX "CBD"."x2r_h"      FOR TEXT CONNECT TO lcbd   > _dr_x2r_h  

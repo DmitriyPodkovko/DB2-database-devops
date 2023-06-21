@@ -1,0 +1,1425 @@
+connect to rbd 
+
+   Информация соединения с базой данных
+
+ Сервер баз данных           = DB2/NT64 9.1.C
+ ID авторизации SQL          = DB2ADMIN
+ Алиас локальной базы данных = RBD
+
+
+runstats on table   sysibm.SYSATTRIBUTES with distribution and detailed indexes all               
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSBUFFERPOOLNODES with distribution and detailed indexes all          
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSBUFFERPOOLS with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCODEPROPERTIES with distribution and detailed indexes all           
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLAUTH with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLDIST with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLGROUPDIST with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLGROUPDISTCOUNTS with distribution and detailed indexes all       
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLGROUPS with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLGROUPSCOLS with distribution and detailed indexes all            
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLOPTIONS with distribution and detailed indexes all               
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOLUSE with distribution and detailed indexes all                   
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCOMMENTS with distribution and detailed indexes all                 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSCONSTDEP with distribution and detailed indexes all                 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSDATAPARTITIONEXPRESSION with distribution and detailed indexes all  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSDATATYPES with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSDEPENDENCIES with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSEVENTS with distribution and detailed indexes all                   
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSEVENTTABLES with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSFUNCMAPOPTIONS with distribution and detailed indexes all           
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSFUNCMAPPARMOPTIONS with distribution and detailed indexes all       
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSFUNCMAPPINGS with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSHIERARCHIES with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXAUTH with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXCOLUSE with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXES with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXEXPLOITRULES with distribution and detailed indexes all        
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXEXTENSIONMETHODS with distribution and detailed indexes all    
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXEXTENSIONPARMS with distribution and detailed indexes all      
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXEXTENSIONS with distribution and detailed indexes all          
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXOPTIONS with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSINDEXXMLPATTERNS with distribution and detailed indexes all         
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSJARCONTENTS with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSJAROBJECTS with distribution and detailed indexes all               
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSJOBS with distribution and detailed indexes all                     
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSKEYCOLUSE with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSLIBRARIES with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSLIBRARYAUTH with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSLIBRARYBINDFILES with distribution and detailed indexes all         
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSLIBRARYVERSIONS with distribution and detailed indexes all          
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSNAMEMAPPINGS with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSNODEGROUPDEF with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSPARTITIONMAPS with distribution and detailed indexes all            
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSPASSTHRUAUTH with distribution and detailed indexes all             
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSPLANDEP with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSPREDICATESPECS with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSRELS with distribution and detailed indexes all                          
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSROUTINEAUTH with distribution and detailed indexes all                   
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSROUTINEOPTIONS with distribution and detailed indexes all                
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSROUTINEPARMOPTIONS with distribution and detailed indexes all            
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSROUTINEPARMS with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSROUTINEPROPERTIESJAVA with distribution and detailed indexes all         
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSCHEMAAUTH with distribution and detailed indexes all                    
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSCHEMATA with distribution and detailed indexes all                      
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSECURITYLABELACCESS with distribution and detailed indexes all           
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSECURITYLABELCOMPONENTELEMENTS with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSECURITYLABELCOMPONENTS with distribution and detailed indexes all       
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSECURITYPOLICIES with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSECURITYPOLICYCOMPONENTRULES with distribution and detailed indexes all  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSECURITYPOLICYEXEMPTIONS with distribution and detailed indexes all      
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSEQUENCEAUTH with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSEQUENCES with distribution and detailed indexes all                     
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSERVEROPTIONS with distribution and detailed indexes all                 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSERVERS with distribution and detailed indexes all                       
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSTMT with distribution and detailed indexes all                          
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSSURROGATEAUTHIDS with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSTABAUTH with distribution and detailed indexes all                       
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSTABCONST with distribution and detailed indexes all                      
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSTABOPTIONS with distribution and detailed indexes all                    
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSTRANSFORMS with distribution and detailed indexes all                    
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSTUNINGINFO with distribution and detailed indexes all                    
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSTYPEMAPPINGS with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSUSEROPTIONS with distribution and detailed indexes all                   
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSVIEWDEP with distribution and detailed indexes all                       
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSVIEWS with distribution and detailed indexes all                         
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSWRAPOPTIONS with distribution and detailed indexes all                   
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSWRAPPERS with distribution and detailed indexes all                      
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSXDBMAPGRAPHS with distribution and detailed indexes all                  
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSXDBMAPSHREDTREES with distribution and detailed indexes all              
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSXSROBJECTAUTH with distribution and detailed indexes all                 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSXSROBJECTCOMPONENTS with distribution and detailed indexes all           
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSXSROBJECTHIERARCHIES with distribution and detailed indexes all          
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table   sysibm.SYSXSROBJECTS with distribution and detailed indexes all                    
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_EEP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_VD_DII with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IO_FZ   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_FZ      with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_FZ_MF   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_FZ_JN   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FCXS_SETTINGS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FCXS_STOPLIST with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.AFL  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.AIL  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.ANL  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.BCL  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.CFG_LOCAL_CBD  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.CFG_LOCAL_CBD_SYNONYMS  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.CFG_SETTINGS   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.DCL   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.DDL   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.DML   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.DSL   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FDUBL1   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FDUBL2 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FIO_1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.FRL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_AD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_AD_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_1R with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_27 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_D08 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_D09 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_D10 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_I6  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_II with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_AU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_BB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_D6 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_DG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_DG2 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_DJ  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_DZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_EEE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_I06 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_III with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_II with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_II_JN  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_IOLIST with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_IOLOGIC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_BB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_DZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_BR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_CPU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_E1  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_FT with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_JJ  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_KEYS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_KEYS1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LI with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LJ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_F1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_I6 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_DZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_PD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_PO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_PP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_PR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_GD  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_GE  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_GJ  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_GK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_PP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_XX with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_ZZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_04 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_S19 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_2I with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_2R with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_U9 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_UC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_DU_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_VD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_VD_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_XX with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IML with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.INATIONS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.KORR  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.LC_KEYS_ORDER with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MAM with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_1Q with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_1R with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_D08  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_D09 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_LC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IIZ  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IOLIST with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IOLOGIC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_30 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_AU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_BB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_D6 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_DG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_DJ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_DZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_EEE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_IIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_OD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_SA with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_SC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_SF with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_SK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_BB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_BR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_CPU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_E1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_JJ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_L7 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LI with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LJ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_LS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_TA with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_TT with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_LZ_WW with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MESSAGES with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MSG_LOCK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_F1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_2C with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_SD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_RD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_IIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_LR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_M8 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_OB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_PD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_SK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_DU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_DZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_MD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_MR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_OD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_OOZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_PD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_PO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_PR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_RG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_SG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_UG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_BB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_GC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_GD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_GE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_GK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_GM with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_WW with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_RZ_ZZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SK_900 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SK_905 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SK_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_04 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_05 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_3J with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_DU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_IIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_MR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_S13 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_UG with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_2I with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_2O with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_2R with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_2Z with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_IIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_LC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_PU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_U18 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_U8 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_U9 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IZ_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_MZ_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_PZ_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_SZ_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_UZ_PZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_XZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_XZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MK_KORR  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MKP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MKT with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MLD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MLE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MLM with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.PACKET_ANS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.PARAMS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.QLE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.QLQ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.RCL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.RCS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.RFE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.RG_KEYS_ORDER with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.RIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.RTC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SEM with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SLB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SPECTR_IO1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SPECTR_IO2 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SPECTR_SQL  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SPECTR1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SPECTR2 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SSI with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.STPLIST with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SYNLIST with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.TDL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.TIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.TRL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.TTL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.WC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.WL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.WS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_PP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_SA with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ID_SK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_KEYS2 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_L7 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LR with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_LS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_PP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_TT with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_XX with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_M15 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_M8 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_OB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_PD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_SK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_SD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_RD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_2C with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_BB with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_GC with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_GM with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_KEYS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_KEYS1 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_KEYS2 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_05 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_DEL with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_I6 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_SG_S13 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_I6 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_PU with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_U7 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_UG_U8 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_XX_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ZP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ZP_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ZP_ZE with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_ZP_ZS with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_AZ with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_AZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_D10 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_D18  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_D20 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_D22 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_DZ_IIO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.MIS_IIZ_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_OK with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_OK_JN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SRVSTAT    with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SRVSCRIPT  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SERNUM     with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SERNUMIO   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_EEP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_RG_EET with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_EET with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_MD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_MN with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_PD_UVD with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_MR_U9 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ADP   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_EEP   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_EET   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ERG   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_MZ_IIA   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_MZ_U9    with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_PZ_IIO   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_PZ_MN    with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_PZ_UVD   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_RZ_ADP   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_RZ_EEP   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_RZ_EET   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.SPECTR2   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.SPECTR_io2   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.SPECTR_io1   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.FT_ERR   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.FT_IO    with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.FT_RES   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.FT_SN    with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.FT_UPD   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.OVP_FL   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.OVP_IO   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.OVP_DK   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.OVP_SN   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.OVP_IP   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table cbd.OVP_DG   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SL_SN with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SL_RV with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.SL_SCN with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_FT with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_FT_MF with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_FT_PP with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_FT_JN with distribution and detailed indexes all 
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_FT   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ZV   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_RZ_ZV   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_ZZ      with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_ZZ_JN   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_ZZ_XZ   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_ZZ_XPD  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_ZZ_XID  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_ZZ_IOS  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_DZ   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_FTG  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_FTO  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_IZ_FTG  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_IZ_FTO  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.IF_ZV_JN   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.IF_ZV_XZ   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.IF_ZV      with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.IF_MR_M20  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_MZ_M20 with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.IF_ID_FTG  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.IF_LC_FTG  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_ZP  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_ZPA with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_ZPP with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on table CBD.IF_LC_ZPO with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ZP   with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ZPA  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ZPO  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+runstats on  table CBD.MIS_LZ_ZPP  with distribution and detailed indexes all
+DB20000I  Команда RUNSTATS выполнена успешно.
+
+connect reset 
+DB20000I  Команда SQL выполнена успешно.
+
